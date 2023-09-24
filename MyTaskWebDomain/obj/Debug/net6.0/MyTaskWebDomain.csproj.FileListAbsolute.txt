@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\bin\Debug\net6.0\MyTaskWebDomain.deps.json
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\bin\Debug\net6.0\MyTaskWebDomain.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\bin\Debug\net6.0\MyTaskWebDomain.pdb
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\refint\MyTaskWebDomain.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\MyTaskWebDomain.pdb
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebDomain\obj\Debug\net6.0\ref\MyTaskWebDomain.dll

@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\bin\Debug\net6.0\MyTaskWebApplication.deps.json
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\bin\Debug\net6.0\MyTaskWebApplication.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\bin\Debug\net6.0\MyTaskWebApplication.pdb
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\bin\Debug\net6.0\MyTaskWebDomain.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\bin\Debug\net6.0\MyTaskWebDomain.pdb
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.AssemblyInfo.cs
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.csproj.CopyComplete
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\refint\MyTaskWebApplication.dll
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\MyTaskWebApplication.pdb
+C:\Users\hp\Desktop\MyTaskWebApi\MyTaskWebApplication\obj\Debug\net6.0\ref\MyTaskWebApplication.dll
